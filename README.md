@@ -146,3 +146,38 @@ b) false
 Answer: b) false
 </ul>
 </details>
+
+
+
+** 11. Which loop is guaranteed to execute at least once? **
+```
+a) for loop
+b) while loop
+c) do-while loop
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) do-while loop
+</ul>
+</details>
+
+
+
+**12. Output of this for loop loop**
+```js 
+for(;;) {
+console.log("Loop")
+}
+```
+```js
+a) Infinit Loop 
+b) Loop will not execute
+c) Error
+d) Only Run once 
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) Infinit Loop
+</ul>
+</details>
