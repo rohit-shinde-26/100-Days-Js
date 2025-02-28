@@ -279,3 +279,36 @@ Answer: c) IIFE
 </ul>
 </details>
 
+
+
+**19 Outpout of below statment ** 
+```js
+ console.log(x);
+ let x = 5; 
+```
+```js 
+a) 5
+b) undefined
+c) ReferenceError
+d) NaN
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) ReferenceError
+</ul>
+</details>
+
+
+**20. How do you create an object in JavaScript? **
+```js
+a) let obj = {};
+b) let obj = new Object();
+c) Both a and b
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) Both a and b
+</ul>
+</details>
