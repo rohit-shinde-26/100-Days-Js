@@ -217,3 +217,33 @@ Answer: c) 0
 </ul>
 </details>
 
+
+
+*** 15. What will console.log(typeof function(){}); return? ***
+```js
+a) "function"
+b) "object"
+c) "undefined"
+d) "null"
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) "function"
+</ul>
+</details>
+
+
+*** 16. What will console.log(typeof function(){}(); return? ***
+```js
+a) "function"
+b) "object"
+c) "undefined"
+d) "null"
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) "undefined"
+</ul>
+</details>
