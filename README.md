@@ -181,3 +181,39 @@ d) Only Run once
 Answer: a) Infinit Loop
 </ul>
 </details>
+
+
+
+** 13. What will console.log(typeof NaN); print? **
+```js
+a) "number"
+b) "NaN"
+c) "undefined"
+d) "object"
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) "number"
+</ul>
+</details>
+
+
+** 14. Output of below statment **
+```js
+let x=null;
+let y=null;
+console.log(x+y) 
+```
+```js
+a) null
+b) object
+c) 0
+d) undefined
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) 0
+</ul>
+</details>
+
