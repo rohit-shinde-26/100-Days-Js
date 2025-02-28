@@ -247,3 +247,35 @@ d) "null"
 Answer: c) "undefined"
 </ul>
 </details>
+
+
+
+*** 17. What is the default return value of a function in JavaScript if no return statement is used? ***
+```js
+a) null
+b) undefined
+c) false
+d) 0
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) undefined
+</ul>
+</details>
+
+
+** 18. Which type of function executes immediately after its definition? **
+```js
+a) Anonymous function
+b) Named function
+c) IIFE (Immediately Invoked Function Expression)
+d) Arrow function
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) IIFE
+</ul>
+</details>
+
