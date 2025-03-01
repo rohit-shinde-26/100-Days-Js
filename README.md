@@ -369,3 +369,30 @@ Answer: d) splice()
 </details>
 
 
+**25 Which keyword allows block-scoped variable declarations? **
+```js
+a) var
+b) let
+c) const
+d) Both b and c
+
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) Both b and c
+</ul>
+</details>
+
+**26 Which of the following is true about const variables?**
+```js
+a) Their values cannot be changed
+b) They cannot be reassigned
+c) They are always immutable
+d) All of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) They cannot be reassigned
+</ul>
+</details>
+
