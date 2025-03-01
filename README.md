@@ -340,3 +340,32 @@ Answer: a) push()
 </ul>
 </details>
 
+
+**23 What will console.log([1,2,3].length); return? **
+```js
+a) 2
+b) 3
+c) 4
+d) undefined
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) 3
+</ul>
+</details>
+
+
+**24 How do you remove first 2 element of an array?**
+```js
+a) pop()
+b) shift()
+c) unshift()
+d) splice()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) splice()
+</ul>
+</details>
+
+
