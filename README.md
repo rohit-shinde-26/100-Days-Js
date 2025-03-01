@@ -396,3 +396,32 @@ Answer: b) They cannot be reassigned
 </ul>
 </details>
 
+
+**27. What is the output of console.log(typeof([]));? **
+```js
+a) "object"
+b) "array"
+c) "undefined"
+d) "null"
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) "object"
+</ul>
+</details>
+
+
+**28 What is a template literal in JavaScript? **
+```js
+a) A type of array
+b) A string enclosed in backticks (` `)
+c) A special function
+d) A new ES6 data type
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) A string enclosed in backticks (` `)
+</ul>
+</details>
+
