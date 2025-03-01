@@ -312,3 +312,31 @@ d) None of the above
 Answer: c) Both a and b
 </ul>
 </details>
+
+
+**21 How do you access a property in an object?**
+```js
+a) obj[property]
+b) obj.property
+c) Both a and b
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) Both a and b
+</ul>
+</details>
+
+**22. Which method is used to add a new element at the end of an array?**
+```js
+a) push()
+b) pop()
+c) shift()
+d) unshift()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) push()
+</ul>
+</details>
+
