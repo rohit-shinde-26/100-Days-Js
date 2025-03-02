@@ -425,3 +425,46 @@ Answer: b) A string enclosed in backticks (` `)
 </ul>
 </details>
 
+**28 What is a template literal in JavaScript? **
+```js
+a) A type of array
+b) A string enclosed in backticks (` `)
+c) A special function
+d) A new ES6 data type
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) A string enclosed in backticks (` `)
+</ul>
+</details>
+
+
+**29. What will console.log(..."Hello"); output? **
+```js
+a) "H e l l o"
+b) ["H", "e", "l", "l", "o"]
+c) Syntax Error
+d) undefined
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) "H e l l o"
+</ul>
+</details>
+
+
+** 30. How do you define an arrow function? **
+```
+a) const add = (a, b) => a + b;
+b) const add = function(a, b) { return a + b; };
+c) Both a and b
+d) None of the above
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) const add = (a, b) => a + b;
+</ul>
+</details>
+
