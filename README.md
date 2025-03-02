@@ -495,3 +495,40 @@ d) {1, 2, 3}
 Answer: a) [1, 2, 3]
 </ul>
 </details>
+
+
+**33. Which statement about arrow functions is true? **
+```js
+a) They do not bind this
+b) They can be used as constructors
+c) They have a prototype property
+d) They support arguments keyword
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) They do not bind this
+</ul>
+</details>
+
+
+**34 Output of follow code? **
+```js
+function tryFruits(...fruits)
+{
+console.log(...fruits)
+}
+
+tryFruits('apple','banana','grapes')
+```
+```js
+a) ['apple', 'banana', 'grapes']
+b) {'apple', 'banana', 'grapes'}
+c) 'apple 'banana grapes'
+d) 'apple'
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a)  ['apple', 'banana', 'grapes']
+</ul>
+</details>
