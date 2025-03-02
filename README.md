@@ -468,3 +468,30 @@ Answer: a) const add = (a, b) => a + b;
 </ul>
 </details>
 
+
+
+**31 What does the spread operator ... do in JavaScript?**
+```js
+a) Combines arrays
+b) Expands iterable elements
+C) All of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: C) All of the above
+</ul>
+</details>
+
+
+** 32. What will console.log([...new Set([1, 2, 2, 3])]); return? **
+```js
+a) [1, 2, 3]
+b) [1, 2, 2, 3]
+c) Set {1, 2, 3}
+d) {1, 2, 3}
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) [1, 2, 3]
+</ul>
+</details>
