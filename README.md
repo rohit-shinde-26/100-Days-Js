@@ -614,3 +614,30 @@ Answer: a) element.addEventListener()
 </ul>
 </details>
 
+
+**41. What does event.preventDefault() do?**
+```js
+a) Stops the default action of an event
+b) Stops event propagation
+c) Prevents event from being attached
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) Stops the default action of an event
+</ul>
+</details>
+
+**43. What is localStorage used for?**
+```js
+a) Storing session data
+b) Storing data persistently in the browser
+c) Making API requests
+d) Caching images
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) Storing data persistently in the browser
+</ul>
+</details>
