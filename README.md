@@ -532,3 +532,31 @@ d) 'apple'
 Answer: a)  ['apple', 'banana', 'grapes']
 </ul>
 </details>
+
+**35. What is the purpose of JavaScript Promises?**
+```js
+a) Handle synchronous code
+b) Handle asynchronous operations
+c) Block execution until resolved
+d) Replace all callbacks
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) Handle asynchronous operations
+</ul>
+</details>
+
+
+**36. Which state is NOT valid for a Promise?**
+```js
+a) Pending
+b) Fulfilled
+c) Rejected
+d) Running
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) Running
+</ul>
+</details>
+
