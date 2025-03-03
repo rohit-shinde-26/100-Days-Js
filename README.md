@@ -560,3 +560,30 @@ Answer: d) Running
 </ul>
 </details>
 
+**37. Use of Await keyword ?**
+```js
+a) wait for an asynchronous operation to finish before continuing the execution
+b) make promise
+c) atop execution  
+d) all of above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) wait for an asynchronous operation to finish before continuing the execution
+</ul>
+</details>
+
+
+**38. Which method selects an element by ID?**
+```
+a) document.getElementofId()
+b) document.getElementById()
+c) document.selectElementById()
+d) document.selectById()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) document.getElementById()
+</ul>
+</details>
+
