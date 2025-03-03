@@ -587,3 +587,30 @@ Answer: b) document.getElementById()
 </ul>
 </details>
 
+**39 Which event is triggered when an input field loses focus?**
+```js
+a) click
+b) blur
+c) focus
+d) change
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) blur
+</ul>
+</details>
+
+
+**40. Which method adds an event listener to an element?**
+```js
+a) element.addEventListener()
+b) element.attachEvent()
+c) element.onEvent()
+d) element.setEventListener()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) element.addEventListener()
+</ul>
+</details>
+
