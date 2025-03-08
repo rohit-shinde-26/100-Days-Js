@@ -703,3 +703,60 @@ Answer: c) Array.isArray(x)
 </ul>
 </details>
 
+
+
+** 48. What is a closure in JavaScript?**
+```js
+a) A function inside another function that has access to its parent’s scope
+b) A block of code that runs automatically
+c) A way to define private variables
+d) Both a and c
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) Both a and c
+</ul>
+</details>
+
+
+
+**49. Which of the following is true about closures?**
+```js
+a) Closures have access to their own scope
+b) Closures have access to their parent function's scope
+c) Closures have access to global scope
+d) All of the above
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) All of the above
+</ul>
+</details>
+
+**50.What will this code output?**
+```js
+function outer() {
+    let count = 0;
+    return function inner() {
+        count++;
+        console.log(count);
+    };
+}
+const counter = outer();
+counter();
+counter();
+```
+
+```js
+a) 1 2
+b) 0 1
+c) 1 1
+d) Error
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) 1 2
+</ul>
+</details>
