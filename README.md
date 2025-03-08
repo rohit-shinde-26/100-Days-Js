@@ -641,3 +641,65 @@ d) Caching images
 Answer: b) Storing data persistently in the browser
 </ul>
 </details>
+
+
+
+**44 Which method converts a JavaScript object into a JSON string?**
+```js
+a) JSON.stringify()
+b) JSON.parse()
+c) toJSON()
+d) parseJSON()
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) JSON.stringify()
+</ul>
+</details>
+
+
+**45 What will console.log(parseInt("10px")) return?**
+```js
+a) 10
+b) NaN
+c) "10px"
+d) Error
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) 10
+</ul>
+</details>
+
+
+
+**46. Which method executes a function repeatedly with a time interval? **
+```js
+a) setInterval()
+b) setTimeout()
+c) repeat()
+d) setLoop()
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) setInterval()
+</ul>
+</details>
+
+
+
+** 47. How do you check if a variable is an array?**
+```js
+a) typeof x === "array"
+b) x.isArray()
+c) Array.isArray(x)
+d) x instanceof Object
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) Array.isArray(x)
+</ul>
+</details>
+
