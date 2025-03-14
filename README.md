@@ -788,3 +788,31 @@ d) NaN
 Answer: b) undefined
 </ul>
 </details>
+
+
+** 53. Which statement is used for error handling in JavaScript?**
+```js
+a) try...catch
+b) throw
+c) finally
+d) All of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) All of the above
+</ul>
+</details>
+
+
+**54 What happens if an error occurs inside the try block?**
+```js
+a) The script stops execution
+b) The error is caught in the catch block
+c) The script crashes
+d) The error is ignored
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) The error is caught in the catch block
+</ul>
+</details>
