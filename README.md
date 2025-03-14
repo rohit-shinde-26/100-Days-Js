@@ -816,3 +816,32 @@ d) The error is ignored
 Answer: b) The error is caught in the catch block
 </ul>
 </details>
+
+
+
+**55. What will console.log(x); inside a try block with no catch or finally do?**
+```js
+a) Print undefined
+b) Print null
+c) Throw a ReferenceError
+d) Nothing
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) Throw a ReferenceError
+</ul>
+</details>
+
+
+**56. Which method is used to generate a custom error?**
+```js
+a) throw new Error()
+b) console.error()
+c) generateError()
+d) raiseError()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) throw new Error()
+</ul>
+</details>
