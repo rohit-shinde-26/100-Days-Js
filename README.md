@@ -760,3 +760,31 @@ d) Error
 Answer: a) 1 2
 </ul>
 </details>
+
+
+**51. Which statement about var and let is true?**
+```js
+a) Both are function-scoped
+b) var is function-scoped, let is block-scoped
+c) Both are block-scoped
+d) var allows redeclaration, let doesn’t
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) var is function-scoped, let is block-scoped
+</ul>
+</details>
+
+
+**52. What will console.log(x); var x = 10; output?**
+```js
+a) 10
+b) undefined
+c) ReferenceError
+d) NaN
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) undefined
+</ul>
+</details>
