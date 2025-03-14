@@ -875,3 +875,33 @@ d) new Class
 Answer: a) class
 </ul>
 </details>
+
+
+
+**59. What is the purpose of the constructor method in a class?**
+```js
+a) To create private variables
+b) To initialize object properties
+c) To call another class
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) To initialize object properties
+</ul>
+</details>
+
+
+
+**60. Which keyword is used for inheritance in JavaScript?**
+```js
+a) implements
+b) extends
+c) inherits
+d) prototype
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) extends
+</ul>
+</details>
