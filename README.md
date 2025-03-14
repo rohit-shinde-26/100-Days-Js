@@ -845,3 +845,33 @@ d) raiseError()
 Answer: a) throw new Error()
 </ul>
 </details>
+
+
+**57. What will finally do in a try-catch-finally block?**
+```js
+a) Execute only if no error occurs
+b) Execute only if an error occurs
+c) Always execute
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) Always execute
+</ul>
+</details>
+
+
+**58. OOP (Object-Oriented Programming) in JavaScript
+Which keyword is used to create a class in JavaScript?**
+```js
+a) class
+b) function
+c) Class
+d) new Class
+
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) class
+</ul>
+</details>
