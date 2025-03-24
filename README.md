@@ -964,3 +964,32 @@ d) They do not support inheritance
 Answer: b) They are syntactic sugar over prototypes
 </ul>
 </details>
+
+
+
+**65. What does navigator.geolocation.getCurrentPosition() do?**
+```js
+a) Gets user’s IP address
+b) Gets user’s location
+c) Opens a Google Maps page
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) Gets user’s location
+</ul>
+</details>
+
+
+**66. Which storage API stores data persistently?**
+```js
+a) localStorage
+b) sessionStorage
+c) cookies
+d) All of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) localStorage
+</ul>
+</details>
