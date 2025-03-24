@@ -934,3 +934,33 @@ d) They do not support inheritance
 Answer: b) They are syntactic sugar over prototypes
 </ul>
 </details>
+
+
+
+
+**61. Which method in a class is used to call the parent class constructor?**
+```js
+a) parent()
+b) super()
+c) this()
+d) constructor()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) super()
+</ul>
+</details>
+
+
+**62 Which statement about JavaScript classes is true?**
+```js
+a) They support multiple inheritance
+b) They are syntactic sugar over prototypes
+c) They can be redeclared
+d) They do not support inheritance
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) They are syntactic sugar over prototypes
+</ul>
+</details>
