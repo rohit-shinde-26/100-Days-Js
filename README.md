@@ -1,7 +1,6 @@
 # 100-Days-Js
 Here the repo which has 100 objective questions
 
-
 **1. Can we connect JavaScript Directly with Actual Database. can you give reason of it ?**
 ```js
 a) Yes;
