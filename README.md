@@ -1022,3 +1022,33 @@ d) delete()
 Answer: a) splice()
 </ul>
 </details>
+
+
+
+
+**69. Which JavaScript engine is used in Google Chrome?**
+```js
+a) SpiderMonkey
+b) V8
+c) Chakra
+d) Nitro
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) V8
+</ul>
+</details>
+
+**70. Which method converts a string into a number?**
+```js
+a) parseInt()
+b) Number()
+c) + (unary plus)
+d) All of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) All of the above
+</ul>
+</details>
+
