@@ -1052,3 +1052,60 @@ Answer: d) All of the above
 </ul>
 </details>
 
+
+** 71. Which function generates a random number between 0 and 1?**
+```js
+a) Math.random()
+b) random()
+c) generateRandom()
+d) Math.rand()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) Math.random()
+</ul>
+</details>
+
+
+
+** 72. Which of the following is a falsy value in JavaScript?**
+```js
+a) "false"
+b) "0"
+c) undefined
+d) "undefined"
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) undefined
+</ul>
+</details>
+
+
+**73 What will console.log([] == false); return?**
+```js
+a) true
+b) false
+c) undefined
+d) Error
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) true
+</ul>
+</details>
+
+
+
+**74. Which of the following is NOT a primitive data type in JavaScript?**
+```js
+a) Number
+b) String
+c) Object
+d) Symbol
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) Object
+</ul>
+</details>
