@@ -992,3 +992,33 @@ d) All of the above
 Answer: a) localStorage
 </ul>
 </details>
+
+
+
+**67. How can you set an interval in JavaScript?**
+```js
+a) setTimeout()
+b) setInterval()
+c) setRepeat()
+d) Interval()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) setInterval()
+</ul>
+</details>
+
+
+
+**68 Which method removes an element from an array?**
+```js
+a) splice()
+b) slice()
+c) remove()
+d) delete()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) splice()
+</ul>
+</details>
