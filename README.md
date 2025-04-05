@@ -1231,3 +1231,66 @@ Answer: d) console.log()
 </ul>
 </details>
 
+
+
+**83. Which queue does setTimeout() use in JavaScript?**
+```js
+a) Microtask queue
+b) Callback queue
+c) Event loop queue
+d) Execution stack
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) Callback queue
+</ul>
+</details>
+
+
+**84. What will be the output of this code?**
+```js
+console.log("A");
+setTimeout(() => console.log("B"), 0);
+console.log("C");
+```
+```js
+a) A B C
+b) A C B
+c) B A C
+d) C A B
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) A C B
+</ul>
+</details>
+
+**85. Which of the following is a best practice in JavaScript?**
+```js
+a) Using == instead of ===
+b) Avoiding global variables
+c) Using var instead of let
+d) Nesting loops as deep as possible
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) Avoiding global variables
+</ul>
+</details>
+
+
+**86. What does "debouncing" do in JavaScript?**
+```js
+a) Delays function execution until a pause in events
+b) Executes a function immediately
+c) Runs a function continuously
+d) None of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) Delays function execution until a pause in events
+</ul>
+</details>
+
+
+
