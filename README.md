@@ -1170,3 +1170,34 @@ Answer: a) reduce()
 </ul>
 </details>
 
+
+
+**79. What does the following code return?**
+```js
+console.log([1, 2, 3].map(num => num * 2));
+```
+```js
+a) [2, 4, 6]
+b) [1, 4, 9]
+c) [1, 2, 3]
+d) [2, 3, 4]
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) [2, 4, 6]
+</ul>
+</details>
+
+
+**80. Which of the following is NOT an immutable operation?***
+```js
+a) map()
+b) filter()
+c) splice()
+d) concat()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) splice()
+</ul>
+</details>
