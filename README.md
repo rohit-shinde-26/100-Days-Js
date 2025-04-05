@@ -1109,3 +1109,32 @@ d) Symbol
 Answer: c) Object
 </ul>
 </details>
+
+
+
+**75 How do you deep clone an object in JavaScript?**
+```js
+a) Object.assign({}, obj)
+b) JSON.parse(JSON.stringify(obj))
+c) obj.clone()
+d) obj.copy()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) JSON.parse(JSON.stringify(obj))
+</ul>
+</details>
+
+
+**76. What is the output of console.log(2 + "2" - 1);?**
+```js
+a) "21"
+b) 21
+c) "22"
+d) 1
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) 21
+</ul>
+</details>
