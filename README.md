@@ -1138,3 +1138,35 @@ d) 1
 Answer: b) 21
 </ul>
 </details>
+
+
+
+
+**77. Which method is used to filter elements from an array?**
+```js
+a) map()
+b) filter()
+c) reduce()
+d) slice()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) filter()
+</ul>
+</details>
+
+
+
+**78 Which function combines array elements into a single value?**
+```js
+a) reduce()
+b) map()
+c) join()
+d) concat()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) reduce()
+</ul>
+</details>
+
