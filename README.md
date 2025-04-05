@@ -1201,3 +1201,33 @@ d) concat()
 Answer: c) splice()
 </ul>
 </details>
+
+
+
+**81. What is the event loop in JavaScript?**
+```js
+a) A process that handles function calls
+b) A mechanism that allows async operations
+c) A feature that prevents infinite loops
+d) A method to execute code
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) A mechanism that allows async operations
+</ul>
+</details>
+
+
+**82. Which of the following executes first in the event loop?**
+```js
+a) setTimeout()
+b) setInterval()
+c) Promise.resolve().then()
+d) console.log()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) console.log()
+</ul>
+</details>
+
