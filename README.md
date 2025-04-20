@@ -1294,3 +1294,31 @@ Answer: a) Delays function execution until a pause in events
 
 
 
+
+**87. What does "throttling" do?**
+```js
+a) Executes a function only at fixed intervals
+b) Prevents a function from running
+c) Removes unnecessary function calls
+d) Stops event propagation
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) Executes a function only at fixed intervals
+</ul>
+</details>
+
+
+**88. Which of the following improves JavaScript performance?**
+```js
+a) Minifying JavaScript files
+b) Using lazy loading
+c) Avoiding unnecessary DOM manipulations
+d) All of the above
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) All of the above
+</ul>
+</details>
+
