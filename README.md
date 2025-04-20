@@ -1349,3 +1349,33 @@ d) Deletes all div elements
 Answer: b) Creates a div but does not append it
 </ul>
 </details>
+
+
+
+**91. Which API is used to create animations in JavaScript?**
+```js
+a) WebGL
+b) requestAnimationFrame()
+c) animateCSS()
+d) window.setInterval()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) requestAnimationFrame()
+</ul>
+</details>
+
+
+
+**92. Which function removes whitespace from both ends of a string?**
+```js
+a) trim()
+b) slice()
+c) removeSpace()
+d) strip()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) trim()
+</ul>
+</details>
