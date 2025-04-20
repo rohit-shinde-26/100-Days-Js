@@ -1409,3 +1409,32 @@ function myFunc() {
 Answer: c) ƒ myFunc() { return "Hello"; }
 </ul>
 </details>
+
+
+
+**95. Which of the following is an example of a higher-order function?**
+```js
+a) A function that returns another function
+b) A function with a return type of void
+c) A function that has a loop inside
+d) A function that only contains if-else statements
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) A function that returns another function
+</ul>
+</details>
+
+**96. Which method is used to handle asynchronous functions in JavaScript?**
+```js
+a) setTimeout()
+b) Promise.then()
+c) async/await
+d) All of the above
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: d) All of the above
+</ul>
+</details>
