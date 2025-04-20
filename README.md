@@ -47,7 +47,7 @@ Answer: a) //
 </details>
 
 
-** 4. What will typeof null return?**
+**4. What will typeof null return?**
 ```js
 a) "null"
 b) "object"
