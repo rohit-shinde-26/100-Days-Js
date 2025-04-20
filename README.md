@@ -1322,3 +1322,30 @@ Answer: d) All of the above
 </ul>
 </details>
 
+
+**89. What is the best way to check if a variable is null or undefined?**
+```js
+a) if (x == null)
+b) if (typeof x === "null")
+c) if (x === null || x === undefined)
+d) if (x == undefined)
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) if (x === null || x === undefined)
+</ul>
+</details>
+
+
+**90. What does document.createElement('div') do?**
+```js
+a) Creates and appends a div
+b) Creates a div but does not append it
+c) Selects an existing div
+d) Deletes all div elements
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: b) Creates a div but does not append it
+</ul>
+</details>
