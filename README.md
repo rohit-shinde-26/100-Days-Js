@@ -1379,3 +1379,33 @@ d) strip()
 Answer: a) trim()
 </ul>
 </details>
+
+
+
+**93. Which method removes the last element from an array?**
+```js
+a) pop()
+b) shift()
+c) splice()
+d) removeLast()
+```
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: a) pop()
+</ul>
+</details>
+
+**94. What is the output of the following code?**
+```js
+console.log(myFunc);
+function myFunc() {
+    return "Hello";
+}
+
+```
+
+<details>
+	<summary><b>View Answer</b></summary><ul>
+Answer: c) ƒ myFunc() { return "Hello"; }
+</ul>
+</details>
